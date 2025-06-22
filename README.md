@@ -40,7 +40,7 @@ Check the final plots in the [`plots/`](./plots) folder!
 | File | Description |
 |------|--------------|
 | `Mall_Customers.csv` | The customer dataset |
-| `Customer_Segmentation.ipynb` | The Jupyter notebook code |
+| `Customers_K_Means_Clustering.ipynb` | The Jupyter notebook code |
 | `plots/` | Contains the final 2D & 3D cluster plots |
 | `README.md` | This file |
 
